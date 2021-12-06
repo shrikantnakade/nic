@@ -2,4 +2,4 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('residential-survey', 'ResidentialSurveyController@welcome');
+Route::get('residential', 'ResidentialSurveyController@welcome');
